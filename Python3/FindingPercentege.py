@@ -7,8 +7,10 @@ if n<=10:
         datos=input().split()
         lista.append(datos)
         #break
+#print(lista)
 
 for j in range(len(lista)):
+    #print(lista[j])
     clave=lista[j][0]
     ind=[]
     #print("clave ",clave)
