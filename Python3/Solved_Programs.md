@@ -12,6 +12,6 @@ Python Loops
 
 ![Loops](/Images/Loops.png?raw=true)
 
-Python Find the Runner-Up Score
+Python Find the Runner-Up Score (FRUPS)
 
 ![Find the Runner-Up Score](/Images/FRUPS.png?raw=true)
