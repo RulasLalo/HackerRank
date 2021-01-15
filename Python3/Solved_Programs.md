@@ -11,3 +11,7 @@ Python Print Function
 Python Loops
 
 ![Loops](/Images/Loops.png?raw=true)
+
+Python Find the Runner-Up Score
+
+![Find the Runner-Up Score](/Images/FRUPS.png?raw=true)
