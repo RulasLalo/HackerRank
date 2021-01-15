@@ -15,3 +15,9 @@ Python Loops
 Python Find the Runner-Up Score (FRUPS)
 
 ![Find the Runner-Up Score](/Images/FRUPS.png?raw=true)
+
+Python Finding Percentege
+
+![Finding Percentege 1](/Images/FindingPercente1.png?raw=true)
+
+![Finding Percentege 1.1](/Images/FindingPercente1.1.png?raw=true)
