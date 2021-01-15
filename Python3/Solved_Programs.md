@@ -10,4 +10,4 @@ Python Print Function
 
 Python Loops
 
-![Print Function](/Images/Loops.png?raw=true)
+![Loops](/Images/Loops.png?raw=true)
