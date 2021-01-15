@@ -7,3 +7,7 @@ Python If-Else
 Python Print Function
 
 ![Print Function](/Images/PrintFunction.png?raw=true)
+
+Python Loops
+
+![Print Function](/Images/Loops.png?raw=true)
