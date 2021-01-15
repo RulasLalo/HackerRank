@@ -23,4 +23,4 @@ Python Finding Percentege
 ![Finding Percentege 1.1](/Images/FindingPercentege1.1.png?raw=true)
 
 Python Tuples
-![Tuples](/Images/FindingPercentege.png?raw=true)
+![Tuples](/Images/Tuples.png?raw=true)
