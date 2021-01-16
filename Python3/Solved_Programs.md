@@ -25,3 +25,9 @@ Python Finding Percentege
 Python Tuples
 
 ![Tuples](/Images/Tuples.png?raw=true)
+
+Python Lists
+
+![Lists 1](/Images/Lists1.png?raw=true)
+
+![Lists 1.1](/Images/Lists1.1.png?raw=true)
